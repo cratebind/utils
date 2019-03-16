@@ -1,6 +1,6 @@
 {
   "name": "@cratebind/utils",
-  "version": "0.0.3",
+  "version": "0.0.5",
   "description": "Common utility and helper functions for JavaScript",
   "main": "build/main/index.js",
   "typings": "build/main/index.d.ts",
@@ -95,5 +95,7 @@
     "exclude": [
       "**/*.spec.js"
     ]
-  }
+  },
+  "author": "Matt Wood <matt@cratebind.com>",
+  "private": false
 }
