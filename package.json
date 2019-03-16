@@ -1,5 +1,5 @@
 {
-  "name": "utils",
+  "name": "@cratebind/utils",
   "version": "1.0.0",
   "description": "Common utility and helper functions for JavaScript",
   "main": "build/main/index.js",
