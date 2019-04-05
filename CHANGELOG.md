@@ -2,6 +2,11 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="0.1.1"></a>
+## [0.1.1](https://github.com/cratebind/utils/compare/v0.0.9...v0.1.1) (2019-04-05)
+
+
+
 <a name="0.0.9"></a>
 ## [0.0.9](https://github.com/cratebind/utils/compare/v0.0.7...v0.0.9) (2019-04-05)
 
